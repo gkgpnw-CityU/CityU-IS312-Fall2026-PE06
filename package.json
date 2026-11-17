@@ -1,0 +1,20 @@
+{
+  "name": "pe06",
+  "version": "1.0.0",
+  "description": "Prints event ticket cost test cases.",
+  "homepage": "https://github.com/gkgpnw-CityU/CityU-IS312-Fall2026-PE06#readme",
+  "bugs": {
+    "url": "https://github.com/gkgpnw-CityU/CityU-IS312-Fall2026-PE06/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkgpnw-CityU/CityU-IS312-Fall2026-PE06.git"
+  },
+  "license": "ISC",
+  "author": "Griffin Gallagher",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
